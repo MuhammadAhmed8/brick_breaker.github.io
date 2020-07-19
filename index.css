@@ -1,0 +1,18 @@
+
+.screenWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.screenWrapper canvas{
+    margin-right: 2rem;
+}
+
+
+
+canvas{
+    border: 2px solid black;
+}
+
